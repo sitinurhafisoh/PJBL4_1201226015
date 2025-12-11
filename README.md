@@ -42,4 +42,4 @@ npm run build
 ```sh
 npm run lint
 ```
-### video :
+### Link video Presentasi :(https://drive.google.com/file/d/1UU6oaQ-HClDCuMIGbvgAIvNlie8HVpDk/view?usp=sharing)
